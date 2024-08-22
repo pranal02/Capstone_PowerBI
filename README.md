@@ -1,17 +1,18 @@
 # Capstone
-YouTube Data Analysis Power BI Project
+YouTube Data Analysis Power BI Project.
 
 
-Introduction
+Introduction.
+
 As a Power BI developer, this project focuses on analyzing a YouTube dataset to uncover actionable insights that can guide content creators and marketers. The dataset includes various engagement metrics and video attributes extracted from YouTube's API, providing a detailed understanding of viewer behavior, video performance, and the factors that drive engagement. The insights derived from this analysis will empower stakeholders to optimize their content strategies and improve audience engagement on the platform.
 
-Problem Statement
+Problem Statement.
 The main goal of this analysis is to identify patterns, trends, and correlations within the YouTube dataset, specifically focusing on engagement metrics and video attributes. By answering key questions, this analysis will assist content creators and marketers in making data-driven decisions to enhance their YouTube content and maximize viewer interaction.
 
-Data Sources
+Data Sources.
 The YouTube dataset will be extracted, transformed, and loaded (ETL) into Power BI, ensuring compliance with YouTube's terms of service and data privacy guidelines.
 
-Tasks To Be Performed
+Tasks To Be Performed.
 Display Maximum Uploads:
 
 Create a card visual to display the maximum number of uploads from the dataset.
