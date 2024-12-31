@@ -53,8 +53,3 @@ This project delves into a YouTube dataset using Power BI to uncover valuable in
 4. **Report Development:** Design and format the Power BI report.
 5. **Deployment:** Publish the report to the Power BI Service and create a dashboard.
 
-**Contact**
-
-[Your Name/Email/GitHub Profile]
-
-This `README.md` file adheres to GitHub's markdown format, providing a clear and structured overview of the project.
