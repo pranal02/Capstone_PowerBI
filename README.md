@@ -1,57 +1,60 @@
-# Capstone
-YouTube Data Analysis Power BI Project.
+# YouTube Data Analysis Power BI Project
 
+**Overview**
 
-Introduction.
+This project delves into a YouTube dataset using Power BI to uncover valuable insights for content creators and marketers. By analyzing engagement metrics and video attributes, this project aims to guide data-driven decisions that enhance content strategy and maximize viewer interaction.
 
-As a Power BI developer, this project focuses on analyzing a YouTube dataset to uncover actionable insights that can guide content creators and marketers. The dataset includes various engagement metrics and video attributes extracted from YouTube's API, providing a detailed understanding of viewer behavior, video performance, and the factors that drive engagement. The insights derived from this analysis will empower stakeholders to optimize their content strategies and improve audience engagement on the platform.
+**Objectives**
 
-Problem Statement.
-The main goal of this analysis is to identify patterns, trends, and correlations within the YouTube dataset, specifically focusing on engagement metrics and video attributes. By answering key questions, this analysis will assist content creators and marketers in making data-driven decisions to enhance their YouTube content and maximize viewer interaction.
+* Identify patterns, trends, and correlations within the YouTube dataset.
+* Answer key questions related to viewer behavior and video performance.
+* Assist content creators in optimizing their content strategy.
 
-Data Sources.
-The YouTube dataset will be extracted, transformed, and loaded (ETL) into Power BI, ensuring compliance with YouTube's terms of service and data privacy guidelines.
+**Data Sources**
 
-Tasks To Be Performed.
-Display Maximum Uploads:
+* YouTube dataset extracted through the YouTube API.
+* Data is processed and transformed (ETL) before loading into Power BI.
 
-Create a card visual to display the maximum number of uploads from the dataset.
-Display Minimum View Ranks:
+**Key Deliverables**
 
-Create a card visual to show the minimum view ranks within the dataset.
-Display Average Views for the Last 30 Days:
+* **Data Exploration & Visualization:**
+    * **Maximum Uploads:** Card visual displaying the maximum number of uploads.
+    * **Minimum View Ranks:** Card visual showcasing the minimum view ranks.
+    * **Average Views (Last 30 Days):** Card visual displaying average views for the last 30 days.
+    * **Maximum Uploads Line Chart:** Line chart highlighting videos with over 200,000 uploads.
+    * **Channel Type & Rank Radar Chart:** Radar chart visualizing the relationship between channel type and channel rank.
+    * **Category-wise Subscribers Packed Bubble Chart:** Packed bubble chart displaying subscriber counts for each category.
+    * **Views per Subscriber Table:** Table visualizing the relationship between channel type and views per subscriber.
+* **Data Calculations:**
+    * **Calculated Column:** "Viewed by Subscriber" for views per subscriber analysis.
+    * **Measure:** Total number of uploads.
+    * **Decomposition Tree:** Visualizing rank-wise categories.
+* **Report Development:**
+    * **Report Formatting:** Consistent styling, headings, and logos.
+    * **Navigation:** Blank navigation button for seamless page transitions.
+* **Deployment:**
+    * **Publication:** Publish the report to the Power BI Service.
+    * **Dashboard Creation:** Develop a dashboard with key visuals for a high-level summary.
 
-Cleanse the data as necessary and create a card visual to display the average views for the last 30 days.
-Generate Line Chart for Maximum Uploads:
+**Tools**
 
-Create a line chart that highlights the titles of videos with maximum uploads, focusing on those that have crossed 200,000 uploads.
-Spider Map (Radar Chart) for Channel Type and Rank:
+* Power BI Desktop
+* YouTube API
 
-Use a radar chart to visualize the relationship between channel type and channel rank.
-Packed Bubble Chart for Category-wise Subscribers:
+**Note:**
 
-Create a packed bubble chart to display the number of subscribers for each category.
-Create Calculated Column for Views per Subscriber:
+* This project adheres to YouTube's terms of service and data privacy guidelines.
 
-Create a calculated column named "Viewed by Subscriber" to determine views per subscriber.
-Table Visual for Channel Type and Views per Subscriber:
+**Getting Started**
 
-Create a table visual to represent the relationship between channel type and views per subscriber.
-Measure for Total Uploads:
+1. **Data Acquisition:** Obtain the YouTube dataset.
+2. **Data Preparation:** Cleanse, transform, and load the data into Power BI.
+3. **Data Analysis & Visualization:** Create visualizations and perform data analysis as outlined above.
+4. **Report Development:** Design and format the Power BI report.
+5. **Deployment:** Publish the report to the Power BI Service and create a dashboard.
 
-Create a measure to calculate the total number of uploads and represent this value using card visuals.
-Decomposition Tree for Rank-wise C
-Create a decomposition tree to visually represent rank-wise categories.
-Blank Navigation Button:
+**Contact**
 
-Create a blank navigation button to allow users to navigate between two pages in the report.
-Report Formatting:
+[Your Name/Email/GitHub Profile]
 
-Format the report by adding appropriate headings, logos, and consistent styling.
-Publish Report to Power BI Service:
-
-Publish the completed report to the Power BI Service for sharing and collaboration.
-Create a Dashboard:
-
-Develop a dashboard with three key visuals from the report to provide a high-level summary of the analysis.ategories:
-
+This `README.md` file adheres to GitHub's markdown format, providing a clear and structured overview of the project.
