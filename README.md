@@ -40,8 +40,7 @@ Create a table visual to represent the relationship between channel type and vie
 Measure for Total Uploads:
 
 Create a measure to calculate the total number of uploads and represent this value using card visuals.
-Decomposition Tree for Rank-wise Categories:
-
+Decomposition Tree for Rank-wise C
 Create a decomposition tree to visually represent rank-wise categories.
 Blank Navigation Button:
 
@@ -54,4 +53,5 @@ Publish Report to Power BI Service:
 Publish the completed report to the Power BI Service for sharing and collaboration.
 Create a Dashboard:
 
-Develop a dashboard with three key visuals from the report to provide a high-level summary of the analysis.
+Develop a dashboard with three key visuals from the report to provide a high-level summary of the analysis.ategories:
+
